@@ -1,5 +1,5 @@
 name: Continue Website Deployment
-on: workflow_default
+on: workflow_disptach
 # on:
 #   push:
 #     branches:

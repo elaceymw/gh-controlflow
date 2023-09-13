@@ -1,5 +1,5 @@
 name: Using reusable workflow
-on: workflow_default
+on: workflow_dispatch
 # on:
 #   push:
 #     branches:
