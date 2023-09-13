@@ -1,4 +1,5 @@
-# name: Reusable Deploy
+name: Reusable Deploy
+on: workflow_default
 # on: workflow_call
 # inputs:
 #   artifact-name:

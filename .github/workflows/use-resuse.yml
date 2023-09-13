@@ -1,4 +1,5 @@
-# name: Using reusable workflow
+name: Using reusable workflow
+on: workflow_default
 # on:
 #   push:
 #     branches:
