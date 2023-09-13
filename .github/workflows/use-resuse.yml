@@ -78,7 +78,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print deploy outcome
-        run: echo ${{ needs.deploy.outputs.result }} # outputs from reusable
+        run: echo ${{ needs.deploy.outputs.result }}
   report:
     needs: [lint,deploy]
     if: failure()
